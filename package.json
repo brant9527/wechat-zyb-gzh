@@ -1,0 +1,21 @@
+{
+  "name": "wechat-zyb-gzh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z398707650/wechat-zyb-gzh.git"
+  },
+  "author": "zyb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z398707650/wechat-zyb-gzh/issues"
+  },
+  "homepage": "https://github.com/z398707650/wechat-zyb-gzh#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
